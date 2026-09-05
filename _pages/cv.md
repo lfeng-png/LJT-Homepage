@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Hong Kong University of Science and Technology (HKUST), 2024 -- Present
-* B.Eng., Shanghai Jiao Tong University (SJTU), 2020 -- 2024 (graduated June 2024)
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology (HKUST), 2024 – Present
+* B.Eng., Shanghai Jiao Tong University (SJTU), 2020 – 2024 (graduated June 2024)
 
 Work experience
 ======
-* February 2025 -- Present: Research Intern
+* February 2025 – Present: Research Intern
   * MINIMAX
 
-* June 2024 -- September 2024: Research Intern
+* June 2024 – September 2024: Research Intern
   * Tencent WXG
   * Supervisor: Zifei Shan
 
-* June 2023 -- December 2023: Research Intern
+* June 2023 – December 2023: Research Intern
   * Shanghai AI Lab
   * Supervisor: Prof. Yu Cheng
 
