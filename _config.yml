@@ -23,7 +23,7 @@ repository               : "lfeng-png/LJT-Homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # set to "profile.png" after uploading a personal photo to /images/profile.png
+  avatar           : "favicon-512x512.png" # neutral placeholder that ships with the template; upload a personal photo to /images/ and point this at it
   name             : "Junteng Liu"
   pronouns         : # example: "she/her"  
   bio              : "First-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology"
