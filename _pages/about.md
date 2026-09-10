@@ -22,7 +22,7 @@ I am **Junteng Liu**, a first-year PhD candidate at the HKUST NLP Group, advised
 
 ## Publications
 
-A complete list of my publications is also available on the [Publications](/publications/) page.
+A complete list of my publications is also available on the [Publications]({{ '/publications/' | relative_url }}) page.
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) — *First author*. arXiv.
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) — *First author*. arXiv.
